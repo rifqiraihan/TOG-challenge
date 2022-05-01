@@ -1,0 +1,29 @@
+.input-container {
+  text-align: left;
+}
+
+input {
+  margin-top: 0.5rem;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 0.25rem;
+  color: red;
+  font-size: 0.5rem;
+}
+
+button {
+  width: 100px;
+  margin: 10px 0;
+}
+
+form {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  text-align: left;
+  align-content: flex-start;
+  align-items: center;
+}
